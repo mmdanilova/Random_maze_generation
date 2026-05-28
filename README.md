@@ -18,4 +18,4 @@ The code creates a maze without loops or closed circuits, without inaccessible a
 <img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/ef56f91d-5d0d-42ef-9ba1-867b0ab64c2c" />
 
 ## Project status
-finished
+Finished in 23.02.2026
