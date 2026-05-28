@@ -101,4 +101,4 @@ class Maze:
         pygame.quit()
 n, m = map(int, input().split())
 maze = Maze(n, m)
-maze.show()
+print(maze)
